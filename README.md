@@ -35,7 +35,7 @@ Total: **1,103** lines of code across **17** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,816 · **Forks**: 106 · **Open issues**: 89 · **Contributors**: 9
+- **Stars**: 2,817 · **Forks**: 107 · **Open issues**: 89 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -45,20 +45,12 @@ Total: **1,103** lines of code across **17** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last720d | 2024-11-26 | 4 | 3 | 2 | 0 | 2 | 14 |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/chrome-cli). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.11.0` | ✅ latest |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last720d | 2024-11-27 | 4 | 3 | 2 | 0 | 2 | 14 |
 
 ## Improve this data
 
@@ -69,4 +61,4 @@ Install metadata for chrome-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:50:38Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T11:03:22Z._
